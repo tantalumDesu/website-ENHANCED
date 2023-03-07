@@ -1,3 +1,3 @@
 # website-ENHANCED
 updated website
-Tolo "Tantalum" (formally "Terrorist Associate") Akers' website.
+for Tolo "Tantalum" (formally "Terrorist Associate") Akers'.
