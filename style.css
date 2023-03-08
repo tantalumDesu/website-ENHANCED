@@ -5,6 +5,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: baseline;
+    flex-wrap: wrap;
     gap: 2%;
     position: sticky;
     top: 0;
