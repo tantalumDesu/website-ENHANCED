@@ -1,6 +1,5 @@
 /* nav bar  */
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Rubik:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Roboto+Mono:ital@0;1&family=Rubik:ital,wght@1,300&display=swap');
 #navbar {
     display: flex;
     flex-direction: row;
@@ -42,6 +41,9 @@
     padding: 1%;
     font-family: 'Rubik', sans-serif;
     font-size: small;
+}
+.academic{
+    font-family: 'Roboto Mono', monospace;
 }
 /* mugshot */
 .foto{
